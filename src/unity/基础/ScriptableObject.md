@@ -1,1 +1,3 @@
 # SciptableObject
+
+SciptableObject还缺少prefab那样的变体功能

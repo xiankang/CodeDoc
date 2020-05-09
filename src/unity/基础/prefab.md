@@ -13,7 +13,7 @@ prefab varient是基于prefab的变体，可以复写基prefab的属性，但是
 
 
 ## prefab有哪些操作
-
+[PrefabUtility](./src/unity/基础/PrefabUtility)
 
 ## prefab实例与prefab asset
 prefab实例是指在场景中通过prefab实例化后的游戏对象，或者场景中的游戏对象拖到项目中序列化就成了prefab asset（在硬盘上了）
